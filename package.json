@@ -1,0 +1,9 @@
+{
+  "name": "claude-code-jetbrains-plugin-audit",
+  "private": true,
+  "version": "0.1.14-beta",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/plugin.test.mjs"
+  }
+}
